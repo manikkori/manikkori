@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **BCA 3rd year**
 
-- 👨‍💻 All of my projects are available at [https://manik-eta.vercel.app](manik-eta.vercel.app)
+- 👨‍💻 All of my projects are available at [https://manik-eta.vercel.app](https://manik-eta.vercel.app)
 
 - 📫 How to reach me **manikkori697@gmail.com**
 
