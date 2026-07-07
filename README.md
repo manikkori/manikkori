@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!%20I'm%20Manik%20Kori&fontSize=50&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=62" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!%20I'm%20Manik%20Kori&fontSize=50&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=62" alt="Header Banner" />
 </div>
 
 <p align="center">
