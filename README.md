@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <a href="https://manik-eta.vercel.app" target="_blank">
+  <a href="https://the-manik.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live_Now-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/manik-kori" target="_blank">
