@@ -1,89 +1,100 @@
-<h1 align="center">Hi 👋, I'm Manik Kori</h1>
-<h3 align="center">A passionate Full Stack Developer (MERN) specializing in AI-integrated Web Apps.</h3>
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!%20I'm%20Manik%20Kori&fontSize=50&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=62" alt="Header Banner" />
+</div>
 
 <p align="center">
   <a href="https://manik-eta.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Live_Now-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/manik-kori" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:manikkori697@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;AI+Integration+%26+LLM+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Tech!" alt="Typing SVG" />
+</div>
+
+---
+
+### 👨‍💻 A Little About Me
+
+*   🎓 I'm currently pursuing my **BCA** at **JMS Group of Institutions** and actively preparing for my **MCA entrance** exams.
+*   💻 I love building decoupled, production-ready web applications using modern architectures.
+*   🧠 Deeply interested in the intersection of Web Development and Artificial Intelligence.
+*   🌱 **Currently Learning:** Deep diving into **AI Agents** to automate complex workflows.
+*   ⚡ **Fun Fact:** I love watching Charlie Chaplin movies and exploring aesthetic video editing when I'm not coding!
+
+---
+
+### 🛠️ Tech Stack & Superpowers
+
+**🤖 AI & LLM Integrations**
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google%20Gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq_API-F55036.svg?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-000000.svg?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-(Learning)-FFD700.svg?style=for-the-badge&logo=probot&logoColor=black" />
+</p>
+
+**🌐 Frontend Engineering**
+<p>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+**⚙️ Backend & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**🧰 Languages & Tools**
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 I'm currently pursuing my **BCA** at **JMS Group of Institutions**.
-- 💡 I specialize in **HTML, CSS, JS, Node.js**, and building decoupled, production-ready web applications.
-- 🤖 Passionate about integrating AI models (like Groq) via RESTful APIs.
-- 🚀 Always focused on writing clean code, managing databases, and deploying scalable solutions.
-- 📫 How to reach me: **manikkori697@gmail.com**
+### 🚀 Featured Creations
+
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Tech Navigator](https://tech-navigator.vercel.app)** | AI-Powered career platform with smart assessment & 40+ tech roadmaps. Real-time mentorship via Groq Llama-3 API. | `JS`, `Tailwind`, `Groq API` |
+| **Autoscript AI** | Decoupled MERN stack app integrating advanced LLMs for automated text generation & workflows. | `React`, `Node`, `MongoDB`, `LLMs` |
+| **Buddy (Voice Assistant)** | Python-based desktop voice assistant utilizing speech recognition & text-to-speech modules. | `Python`, `SpeechRecog` |
+| **Campus Lost & Found** | Full-stack college portal with user registration, matching logic, and admin approval modules. | `Full Stack Web` |
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Backend & Databases:**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Languages:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-#### 📝 [Autoscript AI](#) 
-*Full Stack AI Application (MERN)*
-- Developed a decoupled MERN stack application integrating advanced LLMs for automated text generation.
-- Built a robust Node.js backend REST API deployed on Render, securely managing CORS and environment variables.
-- Integrated the Groq API for real-time AI interactions and managed dynamic user data storage using MongoDB.
-- **Tech Stack:** React.js, Node.js, Express, MongoDB, Groq API, Render, Vercel
-
-#### 🧭 [Tech Navigator](https://tech-navigator.vercel.app)
-*AI-Powered Career Platform*
-- Built a dynamic career guidance platform featuring a smart assessment engine and over 40 detailed tech roadmaps.
-- Successfully integrated the Groq Llama-3 API to create a real-time, context-aware AI Mentor.
-- Developed a responsive, bilingual UI implementing features like career saving and one-click PDF exports.
-- **Tech Stack:** HTML, TailwindCSS, JavaScript, Groq API, Vercel
-
----
-
-### 🏆 Certifications
-- **Python** - GeeksForGeeks
-- **Responsive Web Design** - FreeCodeCamp
-- **Technology Job Simulation** - Deloitte
-
----
-
-### 📊 GitHub Activity
+### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manikkori&show_icons=true&theme=radical&hide_border=true" alt="Manik's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikkori&theme=radical&hide_border=true" alt="Manik's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manikkori&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Manik's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikkori&theme=tokyonight&hide_border=true&background=0D1117" alt="Manik's GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikkori&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikkori&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+</div>
+
+<!-- FOOTER -->
+<div align="center">
+  <i>Let's connect and build something awesome together! 🚀</i>
 </div>
