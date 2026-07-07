@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <a href="https://manik-eta.vercel.app" target="_blank">
+  <a href="https://the-manik.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live_Now-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/manik-kori" target="_blank">
@@ -23,12 +23,10 @@
 
 ### 👨‍💻 A Little About Me
 
-*   🎓 I'm currently pursuing my **BCA** at **JMS Group of Institutions** and actively preparing for my **MCA entrance** exams.
+*   🎓 I'm currently pursuing my **MCA** at **HIET GZB**.
 *   💻 I love building decoupled, production-ready web applications using modern architectures.
 *   🧠 Deeply interested in the intersection of Web Development and Artificial Intelligence.
 *   🌱 **Currently Learning:** Deep diving into **AI Agents** to automate complex workflows.
-*   ⚡ **Fun Fact:** I love watching Charlie Chaplin movies and exploring aesthetic video editing when I'm not coding!
-
 ---
 
 ### 🛠️ Tech Stack & Superpowers
