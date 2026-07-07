@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <a href="https://the-manik.vercel.app" target="_blank">
+  <a href="https://manik-eta.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live_Now-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/manik-kori" target="_blank">
@@ -16,22 +16,24 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;AI+Integration+%26+LLM+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Exploring+AI+Integrations;Always+Learning+New+Tech!" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 👨‍💻 A Little About Me
 
-*   🎓 I'm currently pursuing my **MCA** at **HIET GZB**.
+*   🎓 I'm currently pursuing my **BCA** at **JMS Group of Institutions** and preparing for my **MCA entrance** exams.
 *   💻 I love building decoupled, production-ready web applications using modern architectures.
 *   🧠 Deeply interested in the intersection of Web Development and Artificial Intelligence.
 *   🌱 **Currently Learning:** Deep diving into **AI Agents** to automate complex workflows.
+*   ⚡ **Fun Fact:** I love watching Charlie Chaplin movies and exploring aesthetic video editing when I'm not coding!
+
 ---
 
 ### 🛠️ Tech Stack & Superpowers
 
-**🤖 AI & LLM Integrations**
+**🤖 AI Integrations**
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google%20Gemini&logoColor=white" />
@@ -67,17 +69,6 @@
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
 </p>
-
----
-
-### 🚀 Featured Creations
-
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Tech Navigator](https://tech-navigator.vercel.app)** | AI-Powered career platform with smart assessment & 40+ tech roadmaps. Real-time mentorship via Groq Llama-3 API. | `JS`, `Tailwind`, `Groq API` |
-| **Autoscript AI** | Decoupled MERN stack app integrating advanced LLMs for automated text generation & workflows. | `React`, `Node`, `MongoDB`, `LLMs` |
-| **Buddy (Voice Assistant)** | Python-based desktop voice assistant utilizing speech recognition & text-to-speech modules. | `Python`, `SpeechRecog` |
-| **Campus Lost & Found** | Full-stack college portal with user registration, matching logic, and admin approval modules. | `Full Stack Web` |
 
 ---
 
