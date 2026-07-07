@@ -27,7 +27,6 @@
 *   💻 I love building decoupled, production-ready web applications using modern architectures.
 *   🧠 Deeply interested in the intersection of Web Development and Artificial Intelligence.
 *   🌱 **Currently Learning:** Deep diving into **AI Agents** to automate complex workflows.
-*   ⚡ **Fun Fact:** I love watching Charlie Chaplin movies and exploring aesthetic video editing when I'm not coding!
 
 ---
 
