@@ -23,10 +23,10 @@
 
 ### 👨‍💻 A Little About Me
 
-*   🎓 I'm currently pursuing my **BCA** at **JMS Group of Institutions** and preparing for my **MCA entrance** exams.
+*   🎓 I'm currently pursuing my **MCA** at **HIET GZB**.
 *   💻 I love building decoupled, production-ready web applications using modern architectures.
 *   🧠 Deeply interested in the intersection of Web Development and Artificial Intelligence.
-*   🌱 **Currently Learning:** Deep diving into **AI Agents** to automate complex workflows.
+*   🌱 **Currently Learning:** Deep diving into **AI Agents / RAG** to automate complex workflows.
 
 ---
 
