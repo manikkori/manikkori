@@ -70,19 +70,3 @@
 </p>
 
 ---
-
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manikkori&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Manik's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikkori&theme=tokyonight&hide_border=true&background=0D1117" alt="Manik's GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikkori&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
-</div>
-
-<!-- FOOTER -->
-<div align="center">
-  <i>Let's connect and build something awesome together! 🚀</i>
-</div>
