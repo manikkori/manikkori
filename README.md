@@ -69,6 +69,7 @@
   <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
-![GitHub Snake](https://raw.githubusercontent.com/manikkori/manikkori/refs/heads/output/github-snake-dark.svg)
+## My Contribution snake
+![Contribution snake example](https://github.com/manikkori/manikkori/blob/output/github-contribution-grid-snake.svg)
 
 ---
